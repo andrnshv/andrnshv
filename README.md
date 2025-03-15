@@ -1,5 +1,5 @@
 <h2 align="center">Hello 👋, I'm Andrian Sheva</h2>
-<h4 align ="left">- 🏫 I’m currently studying on State of Polytechnic of Malang </h4>
+<h4 align ="left">- 🏫 I’m currently studying on State of Polytechnic of Malang🇮🇩</h4>
 
 ![newjeans-minji](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZuYjdoZTU1eDc5ZmszYmhpMmV2OGdraDlmN2ZjNjFkMmEycmJiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WymizeaAYlUQPfMmlc/giphy.gif)
 
