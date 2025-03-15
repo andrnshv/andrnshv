@@ -1,9 +1,7 @@
-![newjeans-minji](https://github.com/user-attachments/assets/62633ad4-4306-4983-a453-60db1a3f64d9)<h2 align="center">Hello 👋, I'm Andrian Sheva</h2>
+<h2 align="center">Hello 👋, I'm Andrian Sheva</h2>
 <h4 align ="left">- 🏫 I’m currently studying on State of Polytechnic of Malang </h4>
 
-<p align ="center">
-<img ![newjeans-minji](https://github.com/user-attachments/assets/5d4f739f-6ff2-4175-bf05-fa168337caca)
-</p>
+![newjeans-minji](https://github.com/user-attachments/assets/62633ad4-4306-4983-a453-60db1a3f64d9)
 
 <h4 align="left">Interact with me:</h4>
 <p align="left">
