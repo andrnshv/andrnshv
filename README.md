@@ -3,7 +3,7 @@
 
 <p align ="center">
   <!-- <img width="200" src ="https://media1.tenor.com/m/kkZ5BL5TweQAAAAd/newjeans-minji.gif"/> -->
-  <div class="tenor-gif-embed" data-postid="10540245039187214820" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/newjeans-minji-kpop-kim-minji-new-jeans-gif-10540245039187214820">Newjeans Minji GIF</a>from <a href="https://tenor.com/search/newjeans-gifs">Newjeans GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img width="200" src="https://media.tenor.com/bU_xhHb0YUMAAAAd/anime-retro-anime.gif"/>
 </p>
 
 <h4 align="left">Interact with me:</h4>
