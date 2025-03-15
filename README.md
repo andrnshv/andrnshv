@@ -2,7 +2,7 @@
 <h4 align ="left">- 🏫 I’m currently studying on State of Polytechnic of Malang </h4>
 
 <p align ="center">
-  <img width="200" src ="https://tenor.com/mIMA4Q9Ql7U.gif"/>
+  <img width="200" src ="https://media1.tenor.com/m/kkZ5BL5TweQAAAAd/newjeans-minji.gif"/>
 </p>
 
 <h4 align="left">Interact with me:</h4>
