@@ -1,7 +1,7 @@
 <h2 align="center">Hello 👋, I'm Andrian Sheva</h2>
 <h4 align ="left">- 🏫 I’m currently studying on State of Polytechnic of Malang </h4>
 
-![newjeans-minji](https://github.com/user-attachments/assets/62633ad4-4306-4983-a453-60db1a3f64d9)
+![newjeans-minji](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZuYjdoZTU1eDc5ZmszYmhpMmV2OGdraDlmN2ZjNjFkMmEycmJiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WymizeaAYlUQPfMmlc/giphy.gif)
 
 <h4 align="left">Interact with me:</h4>
 <p align="left">
