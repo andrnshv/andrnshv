@@ -1,7 +1,7 @@
 <h2 align="center">Hello 👋, I'm Andrian Sheva</h2>
 <h4 align ="left">- 🏫 I’m currently studying on State of Polytechnic of Malang🇮🇩</h4>
 
-![MEOVV-Anna](https://media.giphy.com/media/EJaRvDZCHWGpZ1kuHd/giphy.gif)
+![Babymonster - Rora](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVzNHE1MHA2ZW56b2R3YTdjb3B3eXQ0cXd4OTh4N3E1MWVndWZmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4GoDDbiGK0CDVwla5/giphy.gif)
 
 
 <h4 align="left">Interact with me:</h4>
