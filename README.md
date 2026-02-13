@@ -1,5 +1,6 @@
 <h2 align="center">Hello 👋, I'm Andrian Sheva</h2>
 <h4 align ="left">- 🏫 I’m currently studying on State of Polytechnic of Malang🇮🇩</h4>
+<h4 align ="left">- 💻Consumer Hardware Enthusiasts (PC, Laptops, Peripherals, and etc.🖥️</h4>
 
 ![Babymonster - Rora](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBwOGJkZGgwOGlodWgzZGVrcWZycnN1cXZyMm1mOWp3N21vanAxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VN41THg8YQcnAT9wsA/giphy.gif)
 
