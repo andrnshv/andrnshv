@@ -1,8 +1,8 @@
-<h2 align="center">Hello👋, I'm Andrian Sheva A.F. | <i>codename: Igzo</i></h2>
+<h2 align="center">Hello👋, I'm Andrian Sheva A.F.</h2>
 <h3 align ="left">🏫 Currently studying on State of Polytechnic of Malang🇮🇩</h3>
-<h4 align ="left">💻Consumer Hardware Enthusiasts (PC, Laptops, Peripherals, and etc.)🖥️</h4>
+<h4 align ="left">💻(also as..) Consumer Hardware Enthusiasts (PC, Laptops, Peripherals, and etc.)🖥️</h4>
 
-![Babymonster - Rora](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBwOGJkZGgwOGlodWgzZGVrcWZycnN1cXZyMm1mOWp3N21vanAxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VN41THg8YQcnAT9wsA/giphy.gif)
+![Carmen - Hearts2Hearts](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRmd3F3dmpmZm55Znh4enowZHU0ZWVleWc4eG45cnN3bTE1a3hjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7y8KDG3kgS5xyzhDVU/giphy.gif)
 
 
 <h5 align="left">Reach me at:</h4>
